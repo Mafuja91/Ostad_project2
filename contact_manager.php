@@ -5,7 +5,8 @@ $phone1 = "";
 
 $name2 = "";
 $phone2 = "";
-$loop = true; 
+$loop = true;
+ 
 while($loop){
     
     echo "1. Add Contact\n";
